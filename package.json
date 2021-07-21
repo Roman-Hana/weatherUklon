@@ -1,0 +1,16 @@
+{
+  "name": "papka",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "weatherUklon.js",
+  "scripts": {
+    "run": "node run weatherUklon.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
